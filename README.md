@@ -1,3 +1,5 @@
+![My intra 42 page](https://profile.intra.42.fr/users/lcaitlyn)
+
 ![My profile](https://badge42.herokuapp.com/api/stats/lcaitlyn)
   
 <!--
